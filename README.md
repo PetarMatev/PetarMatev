@@ -25,21 +25,7 @@
 | <img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>| Learned these essential technologies for developing any website or Single Page Application like [LetItAllOut](https://github.com/DimoDimchev/LetItAllOut)- a SPA I developed | -->
 
 <p align="center">
-	<img align="center" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"/>
 	<img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>
-	<img align="center" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"/>
-	<img align="center" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-	<img align="center" width="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
-	<img align="center" alt="Django" width="50px" src="https://img.icons8.com/color/48/000000/django.png"/>
-	<img align="center" alt="Flask" width="60px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/>
-	<img align="center" alt="React Native" width="35px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-	<img align="center" alt="Firebase" width="35px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-	<img align="center" alt="PostgreSQL" width="35" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-	<img align="center" width="35" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-	<img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-	<img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>
-	<img align="center" alt="Docker" width="45" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
-	<img align="center" alt="Docker" width="65" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/>
 	
 </p>
 
