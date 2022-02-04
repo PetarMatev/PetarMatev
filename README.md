@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Python Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... [YouTube Channel](https://www.youtube.com/channel/UCvo-xItBBm59YUxu-Rwribw)
 - 😄 Pronouns: ...He/Him
 
