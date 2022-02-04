@@ -1,4 +1,4 @@
-Welcome to my GitHub profile 👋
+<h1 align="center"> Welcome to my GitHub profile 👋 </h1>
 
 
 Here are some ideas to get you started:
@@ -21,15 +21,11 @@ Ways to connect with me
 
 personal website LinkedIn Email
 
-<h1 align="center"> Welcome to my GitHub profile 👋 </h1>
 
-<!--
-**DimoDimchev/DimoDimchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 -->
-
-
-I am a **hardworking person** that is very interested in the world of IT, working as a software developer! Right now I am in high-school and also attend a software development academy. I have experience creating single-page applications, mobile applications, backend applications and more. You can check out my work in the [**Repositories**](https://github.com/DimoDimchev?tab=repositories) section
 
 
   
