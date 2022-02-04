@@ -35,6 +35,6 @@
 <h3 align="center">Ways to connect with me</h3>
 <br/>
 <p align="center">
-	<a href="https://www.linkedin.com/in/PetarMatev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dimo%20Dimchev%20-blue?style=flat-square&logo=linkedin"></a>
-	<a href="petargmatev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ddimchev7@gmail.com-blue?style=flat-square&logo=gmail"></a>
+	<a href="https://www.linkedin.com/in/PetarMatev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Petar%20Matev%20-blue?style=flat-square&logo=linkedin"></a>
+	<a href="petargmatev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-petargmatev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
