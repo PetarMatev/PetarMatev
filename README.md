@@ -1,9 +1,5 @@
 <h1 align="center"> Welcome to my GitHub profile 👋 </h1>
   
-<!-- <p align="center">
-  <a href="https://github.com/PetarMatev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PetarMatev&theme=dark&show_icons=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarMatev&theme=dark&layout=compact&hide=HTML,CSS" />
 
 -->
 
