@@ -24,13 +24,14 @@
 | <img align="center" width="35" src="https://img.icons8.com/color/48/000000/mongodb.png"/> | Used MongoDB as a database for some of the single-page applications I've built |
 | <img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>| Learned these essential technologies for developing any website or Single Page Application like [LetItAllOut](https://github.com/PetarMatev/LetItAllOut)- a SPA I developed | -->
 
-	
+<p align="center">
 	<img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>
 
 	
 </p>
 
 <br>
+
 
 <h3 align="center">Ways to connect with me</h3>
 <br/>
