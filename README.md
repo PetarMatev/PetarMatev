@@ -8,9 +8,9 @@
 -->
 
   
-<!-- <p align="center">
+<p align="center">
 You can check out my work in the [**Repositories**](https://github.com/PetarMatev?tab=repositories) section
-
+</p>
 
   </a>
 </p> -->
