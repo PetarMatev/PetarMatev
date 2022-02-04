@@ -14,7 +14,7 @@
 <!-- | Technology | Purpose of use |
 | :----------: | -------------- |
 
-| <img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>| Learned the fundamentals of programming and advanced programming concepts during my time at the Software University, where I completed the following courses:</br>- [Programming Basics with Python](https://github.com/PetarMatev/SoftUni-Python-Basics)</br>- [Programming Fundamentals with Python](https://github.com/PetarMatev/SoftUni-Python-Fundamentals)</br>- [Python Advanced](https://github.com/PetarMatev/SoftUni-Python-Advanced)</br>- [Python OOP](https://github.com/PetarMatev/Softuni-Python-OOP)</br>- [Python Web Basics](https://github.com/PetarMatev/SoftUni-Python-Web-Basics)</br>- [Django Framework](https://github.com/PetarMatev/SoftUni-Python-Web-Django)</br></br>Developed an app for an [assesment](https://github.com/PetarMatev/Access-Control) and other small applications like the [2048 game](https://github.com/PetarMatev/2048) | -->
+| <img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>| Learned the fundamentals of programming and advanced programming concepts during my time at the Software University, where I completed the following courses:</br>- [Programming Basics with Python] | -->
 
 <p align="center">
 	<img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>
