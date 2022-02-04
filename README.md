@@ -4,6 +4,13 @@
   <a href="https://github.com/PetarMatev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PetarMatev&theme=dark&show_icons=true" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarMatev&theme=dark&layout=compact&hide=HTML,CSS" />
+
+-->
+
+
+You can check out my work in the [**Repositories**](https://github.com/PetarMatev?tab=repositories) section
+
+
   </a>
 </p> -->
 
