@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my GitHub profile 👋 </h1>
   
-<align="center">
+
 You can check out my work in the [**Repositories**](https://github.com/PetarMatev?tab=repositories) section.
 
 
