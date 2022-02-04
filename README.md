@@ -1,12 +1,9 @@
 <h1 align="center"> Welcome to my GitHub profile 👋 </h1>
 
-<p align="center">
+
 You can check out my work in the [**Repositories**](https://github.com/PetarMatev?tab=repositories) section.
-</p>
 
 
-
-<br>
 
 <h3 align="center">Technologies I've used</h3>
 
