@@ -14,7 +14,7 @@
 <!-- | Technology | Purpose of use |
 | :----------: | -------------- |
 
-| <img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>| Learned the fundamentals of programming and advanced programming concepts during my time at the Software University, where I completed the following courses:</br>- [Programming Basics with Python] | -->
+| <img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>| -->
 
 <p align="center">
 	<img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>
