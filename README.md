@@ -1,33 +1,4 @@
 <h1 align="center"> Welcome to my GitHub profile 👋 </h1>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Building a Desktop Database
-- 🌱 I’m currently learning ... Tkinter with Pytohn
-- 👯 I’m looking to collaborate on ... Python Projects
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [YouTube Channel](https://www.youtube.com/channel/UCvo-xItBBm59YUxu-Rwribw)
-- 😄 Pronouns: ...He/Him
-
-I am a hardworking person that is very interested in the world of IT, working as a software developer! Right now I am in high-school and also attend a software development academy. I have experience creating single-page applications, mobile applications, backend applications and more. You can check out my work in the Repositories section
-
-
-Technologies I've used
-C Python JavaScript   Django Flask React Native Firebase PostgreSQL  HTML CSS Docker Docker
-
-
-Ways to connect with me
-
-personal website LinkedIn Email
-
-
-
-
-
--->
-
-
   
 <!-- <p align="center">
   <a href="https://github.com/DimoDimchev">
