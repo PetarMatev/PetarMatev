@@ -13,7 +13,7 @@ You can check out my work in the [**Repositories**](https://github.com/PetarMate
 
 <p align="center">
     <img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>
-    <img align="center" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png"/>
+    <img align="center" alt="Java" width="37px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png"/>
 </p>
 
 <br>
